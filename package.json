@@ -1,0 +1,23 @@
+{
+    "name": "read_pdf_file",
+    "version": "1.0.0",
+    "description": "",
+    "main": "read.js",
+    "dependencies": {
+        "textract": "^2.1.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node read.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nodeexcel/pdf_reader_nodejs.git"
+    },
+    "author": "vaibhav_pathak <vaibhavppathak94@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nodeexcel/pdf_reader_nodejs/issues"
+    },
+    "homepage": "https://github.com/nodeexcel/pdf_reader_nodejs#readme"
+}
