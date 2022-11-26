@@ -8,7 +8,7 @@
     },
     "devDependencies": {},
     "scripts": {
-        "start": "node read.js"
+        "start": "node ./src/app.js"
     },
     "repository": {
         "type": "git",
